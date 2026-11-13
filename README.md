@@ -1,3 +1,4 @@
+## NAME - SUBHRAJEET DASH , ROLL NO - 2401350018 , COURSE - BTECH CSE FULL STACK , SEMESTER - 5
 # Smart CPU Scheduling Visualizer
 
 An operating system process scheduling simulator and visualizer built with **Python**, **Streamlit**, **Matplotlib**, and **Bash**. It demonstrates how an operating system decides which process gets CPU time, calculates execution and wait metrics, produces high-resolution Gantt charts, compares algorithmic performance side-by-side, and exports reports to CSV and PDF.
